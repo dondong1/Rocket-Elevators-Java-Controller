@@ -3,3 +3,8 @@
 [0m2021.02.11 17:28:53 WARN  Build server is not auto-connectable.[0m
 [0m2021.02.11 17:28:53 WARN  no build tool detected in workspace 'C:\Users\Don\Documents\GitHub\Rocket-Elevators-Java-Controller'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2021.02.11 17:37:59 INFO  shutting down Metals[0m
+[0m2021.02.12 06:05:45 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Don\Documents\GitHub\Rocket-Elevators-Java-Controller' for client vscode 1.53.2.[0m
+[0m2021.02.12 06:05:45 INFO  time: initialize in 0.71s[0m
+[0m2021.02.12 06:05:48 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.12 06:05:48 WARN  no build tool detected in workspace 'C:\Users\Don\Documents\GitHub\Rocket-Elevators-Java-Controller'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.12 10:02:37 INFO  shutting down Metals[0m
